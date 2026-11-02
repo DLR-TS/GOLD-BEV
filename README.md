@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2604.19411"><b>Paper</b></a>
   &nbsp;·&nbsp;
-  <a href="DATASET_DOWNLOAD_URL"><b>Download Dataset</b></a>
+  <a href="https://www.dlr.de/en/eoc/about-us/remote-sensing-technology-institute/photogrammetry-and-image-analysis/public-datasets/gold-bev-ground-and-aerial-data-for-dense-semantic-bev-mapping-of-dynamic-scenes"><b>Download Dataset</b></a>
   &nbsp;·&nbsp;
   <a href="https://creativecommons.org/licenses/by-nc/4.0/"><b>License</b></a>
 </p>
@@ -51,10 +51,12 @@ Example dense BEV semantic predictions for highway and complex urban scenes:
 The GOLD-BEV dataset is available here:
 
 <p align="center">
-  <a href="DATASET_DOWNLOAD_URL"><b>Download GOLD-BEV</b></a>
+  <a href="https://www.dlr.de/en/eoc/about-us/remote-sensing-technology-institute/photogrammetry-and-image-analysis/public-datasets/gold-bev-ground-and-aerial-data-for-dense-semantic-bev-mapping-of-dynamic-scenes"><b>Download GOLD-BEV</b></a>
 </p>
 
-> **Before publishing:** replace `DATASET_DOWNLOAD_URL` in this README with the final dataset URL.
+The official DLR landing page provides the metadata, 19 dataset archive parts, pseudo-labels, manual annotations, and LiDAR annotations. **Download the metadata first** for information about the dataset structure.
+
+[German-language DLR dataset page](https://www.dlr.de/de/eoc/ueber-uns/institut-fuer-methodik-der-fernerkundung/photogrammetrie-und-bildanalyse/offentliche-datensatze/gold-bev-ground-and-aerial-data-for-dense-semantic-bev-mapping-of-dynamic-scenes).
 
 ## Paper
 
