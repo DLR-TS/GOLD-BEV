@@ -88,5 +88,5 @@ See [`LICENSE`](LICENSE) and the [Creative Commons license page](https://creativ
 ---
 
 <p align="center">
-  German Aerospace Center (DLR) · Institute of AI Safety and Security
+  German Aerospace Center (DLR)
 </p>
